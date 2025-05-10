@@ -1,0 +1,19 @@
+Group Name
+----------
+
+John Paul Michael Antonovich
+
+Members
+-------
+
+Member 1, John Paul Antonovich - JohnPaulMAntonovich
+
+Designated Submitter
+--------------------
+
+Member 1
+
+Github Repo Link
+--------------------
+
+https://github.com/JohnPaulMAntonovich/CSE024Prj
